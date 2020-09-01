@@ -9,11 +9,8 @@
 ## 使用
 
 - [新建](https://github.com/new) GitHub 仓库
-
 - 复制 `.github/workflows/ci.yml` 和 `keepchange.txt` 文件到你的仓库
-
 - 修改 `email`、`name` 和 `url`，在 [ci.yml 文件的第 19-21 行](https://github.com/justjavac/auto-green/blob/master/.github/workflows/ci.yml#L19-L21)
-
 - (可选) 你可以通过修改 [ci.yml 文件的第 8 行](https://github.com/justjavac/auto-green/blob/master/.github/workflows/ci.yml#L8)来调整频率
 
 计划任务语法有 5 个字段，中间用空格分隔，每个字段代表一个时间单位。
