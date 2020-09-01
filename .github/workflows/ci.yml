@@ -1,4 +1,4 @@
-name: auto green
+name: ci
 
 on:
   push:
